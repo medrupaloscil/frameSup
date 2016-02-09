@@ -1,7 +1,8 @@
 <?php
 require_once('autoloader.php');
 
-$query = new Query();
+echo "ok";
+/*$query = new Query();
 $query->orderBy('id', 'DESC');
 $query->limit(2, 4);
 $user = $query->isEntity('Users');
@@ -11,4 +12,4 @@ $user = new Users();
 $user->setPseudo('Luke Skywalker');
 $user->setAge('26');
 $user->setPassword('LoveMySister');
-$user->save();
+$user->save();*/
