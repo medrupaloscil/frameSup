@@ -49,7 +49,7 @@ class Create {
 	}
 
 	public function generateTableByName($name) {
-		foreach(glob(__DIR__.'/../xml/*.xml') as $file) {
+		foreach(glob(__DIR__.'/../../src/xml/*.xml') as $file) {
 		  	$xml = simplexml_load_file($file) or die("Error: Cannot create object");
 		  	foreach ($xml as $key => $value) {
 		  		if ($value['name'] == $name) {
