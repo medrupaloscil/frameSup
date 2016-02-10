@@ -5,4 +5,5 @@ $routes = array(
     '/' => 'Test:index',
     '/index' => 'Test:index',
     '/products' => 'Test:products',
+    '/article/{id}' => 'Test:article',
 );

@@ -19,3 +19,2258 @@ LOGS ACCESS:
 [16/12/15 13:51:31] : INSERT INTO users (id) VALUES (DEFAULT); 
 [16/12/15 13:51:32] : UPDATE users SET  pseudo = 'Luke Skywalker', password = 'LoveMySister', age = '26' WHERE id = '6'; 
 [10/02/16 11:38:19] : SELECT * FROM Posts WHERE 1 ORDER BY id DESC LIMIT 0, 4; 
+[10/02/16 11:53:05] : SELECT * FROM Posts WHERE 1 ORDER BY id DESC LIMIT 0, 4; 
+[10/02/16 12:01:32] : SELECT * FROM Posts WHERE 1 ORDER BY id DESC LIMIT 0, 4; 
+[10/02/16 12:01:58] : SELECT * FROM Posts WHERE 1 ORDER BY id DESC LIMIT 0, 4; 
+[10/02/16 12:06:15] : SELECT * FROM Posts WHERE 1 ORDER BY id DESC LIMIT 0, 4; 
+[10/02/16 12:06:48] : SELECT * FROM Posts WHERE 1 ORDER BY id DESC LIMIT 0, 4; 
+[10/02/16 12:09:29] : Host: localhost:8888 
+[10/02/16 12:09:29] : Connection: keep-alive 
+[10/02/16 12:09:29] : Cache-Control: max-age=0 
+[10/02/16 12:09:29] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 12:09:29] : Upgrade-Insecure-Requests: 1 
+[10/02/16 12:09:29] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:09:29] : Referer: http://localhost:8888/frameSup/web/index.php/index 
+[10/02/16 12:09:29] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:09:29] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:09:29] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:09:47] : Host: localhost:8888 
+[10/02/16 12:09:47] : Connection: keep-alive 
+[10/02/16 12:09:47] : Cache-Control: max-age=0 
+[10/02/16 12:09:47] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 12:09:47] : Upgrade-Insecure-Requests: 1 
+[10/02/16 12:09:47] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:09:47] : Referer: http://localhost:8888/frameSup/web/index.php/index 
+[10/02/16 12:09:47] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:09:47] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:09:47] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:11:10] : Host: localhost:8888 
+[10/02/16 12:11:10] : Connection: keep-alive 
+[10/02/16 12:11:10] : Cache-Control: max-age=0 
+[10/02/16 12:11:10] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 12:11:10] : Upgrade-Insecure-Requests: 1 
+[10/02/16 12:11:10] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:11:10] : Referer: http://localhost:8888/frameSup/web/index.php/index 
+[10/02/16 12:11:10] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:11:10] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:11:10] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:11:20] : Host: localhost:8888 
+[10/02/16 12:11:20] : Connection: keep-alive 
+[10/02/16 12:11:20] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 12:11:20] : Upgrade-Insecure-Requests: 1 
+[10/02/16 12:11:20] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:11:20] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:11:20] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:11:20] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:11:28] : SELECT * FROM Posts WHERE 1 ORDER BY id DESC LIMIT 0, 4; 
+[10/02/16 12:11:28] : Host: localhost:8888 
+[10/02/16 12:11:28] : Connection: keep-alive 
+[10/02/16 12:11:28] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 12:11:28] : Upgrade-Insecure-Requests: 1 
+[10/02/16 12:11:28] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:11:28] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:11:28] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:11:28] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:21:58] : Host: localhost:8888 
+[10/02/16 12:21:58] : Connection: keep-alive 
+[10/02/16 12:21:58] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 12:21:58] : Upgrade-Insecure-Requests: 1 
+[10/02/16 12:21:58] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:21:58] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 12:21:58] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:21:58] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:21:58] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:26:56] : Host: localhost:8888 
+[10/02/16 12:26:56] : Connection: keep-alive 
+[10/02/16 12:26:56] : Cache-Control: max-age=0 
+[10/02/16 12:26:56] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 12:26:56] : Upgrade-Insecure-Requests: 1 
+[10/02/16 12:26:56] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:26:56] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 12:26:56] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:26:56] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:26:56] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:27:05] : Host: localhost:8888 
+[10/02/16 12:27:05] : Connection: keep-alive 
+[10/02/16 12:27:05] : Cache-Control: max-age=0 
+[10/02/16 12:27:05] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 12:27:05] : Upgrade-Insecure-Requests: 1 
+[10/02/16 12:27:05] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:27:05] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 12:27:05] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:27:05] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:27:05] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:32:02] : Host: localhost:8888 
+[10/02/16 12:32:02] : Connection: keep-alive 
+[10/02/16 12:32:02] : Cache-Control: max-age=0 
+[10/02/16 12:32:02] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 12:32:02] : Upgrade-Insecure-Requests: 1 
+[10/02/16 12:32:02] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:32:02] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 12:32:02] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:32:02] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:32:02] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:33:19] : Host: localhost:8888 
+[10/02/16 12:33:19] : Connection: keep-alive 
+[10/02/16 12:33:19] : Cache-Control: max-age=0 
+[10/02/16 12:33:19] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 12:33:19] : Upgrade-Insecure-Requests: 1 
+[10/02/16 12:33:19] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:33:19] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 12:33:19] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:33:19] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:33:19] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:35:08] : Host: localhost:8888 
+[10/02/16 12:35:08] : Connection: keep-alive 
+[10/02/16 12:35:08] : Cache-Control: max-age=0 
+[10/02/16 12:35:08] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 12:35:08] : Upgrade-Insecure-Requests: 1 
+[10/02/16 12:35:08] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:35:08] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 12:35:08] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:35:08] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:35:08] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:35:56] : Host: localhost:8888 
+[10/02/16 12:35:56] : Connection: keep-alive 
+[10/02/16 12:35:56] : Cache-Control: max-age=0 
+[10/02/16 12:35:56] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 12:35:56] : Upgrade-Insecure-Requests: 1 
+[10/02/16 12:35:56] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:35:56] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 12:35:56] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:35:56] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:35:56] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:36:01] : Host: localhost:8888 
+[10/02/16 12:36:01] : Connection: keep-alive 
+[10/02/16 12:36:01] : Cache-Control: max-age=0 
+[10/02/16 12:36:01] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 12:36:01] : Upgrade-Insecure-Requests: 1 
+[10/02/16 12:36:01] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:36:01] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 12:36:01] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:36:01] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:36:01] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:36:41] : Host: localhost:8888 
+[10/02/16 12:36:41] : Connection: keep-alive 
+[10/02/16 12:36:41] : Cache-Control: max-age=0 
+[10/02/16 12:36:41] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 12:36:41] : Upgrade-Insecure-Requests: 1 
+[10/02/16 12:36:41] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:36:41] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 12:36:41] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:36:41] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:36:41] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:38:04] : Host: localhost:8888 
+[10/02/16 12:38:04] : Connection: keep-alive 
+[10/02/16 12:38:04] : Cache-Control: max-age=0 
+[10/02/16 12:38:04] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 12:38:04] : Upgrade-Insecure-Requests: 1 
+[10/02/16 12:38:04] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:38:04] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 12:38:04] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:38:04] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:38:04] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:38:07] : Host: localhost:8888 
+[10/02/16 12:38:07] : Connection: keep-alive 
+[10/02/16 12:38:07] : Cache-Control: max-age=0 
+[10/02/16 12:38:07] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 12:38:07] : Upgrade-Insecure-Requests: 1 
+[10/02/16 12:38:07] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:38:07] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 12:38:07] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:38:07] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:38:07] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:48:39] : Host: localhost:8888 
+[10/02/16 12:48:39] : Connection: keep-alive 
+[10/02/16 12:48:39] : Cache-Control: max-age=0 
+[10/02/16 12:48:39] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 12:48:39] : Upgrade-Insecure-Requests: 1 
+[10/02/16 12:48:39] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:48:39] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:48:39] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:48:39] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:48:45] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:48:45] : Host: localhost:8888 
+[10/02/16 12:48:45] : Connection: keep-alive 
+[10/02/16 12:48:45] : Cache-Control: max-age=0 
+[10/02/16 12:48:45] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 12:48:45] : Upgrade-Insecure-Requests: 1 
+[10/02/16 12:48:45] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:48:45] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:48:45] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:48:45] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:48:46] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:48:46] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:48:46] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:48:46] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:48:46] : Host: localhost:8888 
+[10/02/16 12:48:46] : Connection: keep-alive 
+[10/02/16 12:48:46] : Cache-Control: max-age=0 
+[10/02/16 12:48:46] : Host: localhost:8888 
+[10/02/16 12:48:46] : Connection: keep-alive 
+[10/02/16 12:48:46] : Cache-Control: max-age=0 
+[10/02/16 12:48:46] : Accept: */* 
+[10/02/16 12:48:46] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:48:46] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 12:48:46] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:48:46] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:48:46] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:48:46] : Accept: */* 
+[10/02/16 12:48:46] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:48:46] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 12:48:46] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:48:46] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:48:46] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:48:46] : Host: localhost:8888 
+[10/02/16 12:48:46] : Connection: keep-alive 
+[10/02/16 12:48:46] : Cache-Control: max-age=0 
+[10/02/16 12:48:46] : Accept: */* 
+[10/02/16 12:48:46] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:48:46] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 12:48:46] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:48:46] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:48:46] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:48:46] : Host: localhost:8888 
+[10/02/16 12:48:46] : Connection: keep-alive 
+[10/02/16 12:48:46] : Cache-Control: max-age=0 
+[10/02/16 12:48:46] : Accept: image/webp,image/*,*/*;q=0.8 
+[10/02/16 12:48:46] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:48:46] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 12:48:46] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:48:46] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:48:46] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:49:08] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:49:08] : Host: localhost:8888 
+[10/02/16 12:49:08] : Connection: keep-alive 
+[10/02/16 12:49:08] : Cache-Control: max-age=0 
+[10/02/16 12:49:08] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 12:49:08] : Upgrade-Insecure-Requests: 1 
+[10/02/16 12:49:08] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:49:08] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:49:08] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:49:08] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:49:09] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:49:09] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:49:09] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:49:09] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:49:09] : Host: localhost:8888 
+[10/02/16 12:49:09] : Connection: keep-alive 
+[10/02/16 12:49:09] : Cache-Control: max-age=0 
+[10/02/16 12:49:09] : Accept: */* 
+[10/02/16 12:49:09] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:49:09] : Host: localhost:8888 
+[10/02/16 12:49:09] : Connection: keep-alive 
+[10/02/16 12:49:09] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 12:49:09] : Cache-Control: max-age=0 
+[10/02/16 12:49:09] : Accept: */* 
+[10/02/16 12:49:09] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:49:09] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 12:49:09] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:49:09] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:49:09] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:49:09] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:49:09] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:49:09] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:49:09] : Host: localhost:8888 
+[10/02/16 12:49:09] : Connection: keep-alive 
+[10/02/16 12:49:09] : Cache-Control: max-age=0 
+[10/02/16 12:49:09] : Accept: */* 
+[10/02/16 12:49:09] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:49:09] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 12:49:09] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:49:09] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:49:09] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:49:09] : Host: localhost:8888 
+[10/02/16 12:49:09] : Connection: keep-alive 
+[10/02/16 12:49:09] : Cache-Control: max-age=0 
+[10/02/16 12:49:09] : Accept: image/webp,image/*,*/*;q=0.8 
+[10/02/16 12:49:09] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:49:09] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 12:49:09] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:49:09] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:49:09] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:49:11] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:49:11] : Host: localhost:8888 
+[10/02/16 12:49:11] : Connection: keep-alive 
+[10/02/16 12:49:11] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 12:49:11] : Upgrade-Insecure-Requests: 1 
+[10/02/16 12:49:11] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:49:11] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 12:49:11] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:49:11] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:49:11] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:49:11] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:49:11] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:49:11] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:49:11] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:49:11] : Host: localhost:8888 
+[10/02/16 12:49:11] : Connection: keep-alive 
+[10/02/16 12:49:11] : Accept: image/webp,image/*,*/*;q=0.8 
+[10/02/16 12:49:11] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:49:11] : Referer: http://localhost:8888/frameSup/web/index.php/article/index 
+[10/02/16 12:49:11] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:49:11] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:49:11] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:49:12] : Host: localhost:8888 
+[10/02/16 12:49:12] : Connection: keep-alive 
+[10/02/16 12:49:12] : Accept: */* 
+[10/02/16 12:49:12] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:49:12] : Referer: http://localhost:8888/frameSup/web/index.php/article/index 
+[10/02/16 12:49:12] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:49:12] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:49:12] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:49:12] : Host: localhost:8888 
+[10/02/16 12:49:12] : Connection: keep-alive 
+[10/02/16 12:49:12] : Accept: */* 
+[10/02/16 12:49:12] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:49:12] : Referer: http://localhost:8888/frameSup/web/index.php/article/index 
+[10/02/16 12:49:12] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:49:12] : Host: localhost:8888 
+[10/02/16 12:49:12] : Connection: keep-alive 
+[10/02/16 12:49:12] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:49:12] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:49:12] : Accept: */* 
+[10/02/16 12:49:12] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:49:12] : Referer: http://localhost:8888/frameSup/web/index.php/article/index 
+[10/02/16 12:49:12] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:49:12] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:49:12] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:49:12] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:49:12] : Host: localhost:8888 
+[10/02/16 12:49:12] : Connection: keep-alive 
+[10/02/16 12:49:12] : Accept: image/webp,image/*,*/*;q=0.8 
+[10/02/16 12:49:12] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:49:12] : Referer: http://localhost:8888/frameSup/web/index.php/article/index 
+[10/02/16 12:49:12] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:49:12] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:49:12] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:49:38] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:49:38] : Host: localhost:8888 
+[10/02/16 12:49:38] : Connection: keep-alive 
+[10/02/16 12:49:38] : Cache-Control: max-age=0 
+[10/02/16 12:49:38] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 12:49:38] : Upgrade-Insecure-Requests: 1 
+[10/02/16 12:49:38] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:49:38] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 12:49:38] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:49:38] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:49:38] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:49:39] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:49:39] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:49:39] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:49:39] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:49:39] : Host: localhost:8888 
+[10/02/16 12:49:39] : Connection: keep-alive 
+[10/02/16 12:49:39] : Cache-Control: max-age=0 
+[10/02/16 12:49:39] : Accept: */* 
+[10/02/16 12:49:39] : Host: localhost:8888 
+[10/02/16 12:49:39] : Connection: keep-alive 
+[10/02/16 12:49:39] : Cache-Control: max-age=0 
+[10/02/16 12:49:39] : Accept: image/webp,image/*,*/*;q=0.8 
+[10/02/16 12:49:39] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:49:39] : Referer: http://localhost:8888/frameSup/web/index.php/article/index 
+[10/02/16 12:49:39] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:49:39] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:49:39] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:49:39] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:49:39] : Referer: http://localhost:8888/frameSup/web/index.php/article/index 
+[10/02/16 12:49:39] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:49:39] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:49:39] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:49:39] : Host: localhost:8888 
+[10/02/16 12:49:39] : Connection: keep-alive 
+[10/02/16 12:49:39] : Cache-Control: max-age=0 
+[10/02/16 12:49:39] : Accept: */* 
+[10/02/16 12:49:39] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:49:39] : Referer: http://localhost:8888/frameSup/web/index.php/article/index 
+[10/02/16 12:49:39] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:49:39] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:49:39] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:49:39] : Host: localhost:8888 
+[10/02/16 12:49:39] : Connection: keep-alive 
+[10/02/16 12:49:39] : Cache-Control: max-age=0 
+[10/02/16 12:49:39] : Accept: */* 
+[10/02/16 12:49:39] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:49:39] : Referer: http://localhost:8888/frameSup/web/index.php/article/index 
+[10/02/16 12:49:39] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:49:39] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:49:39] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:49:39] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:49:40] : Host: localhost:8888 
+[10/02/16 12:49:40] : Connection: keep-alive 
+[10/02/16 12:49:40] : Cache-Control: max-age=0 
+[10/02/16 12:49:40] : Accept: image/webp,image/*,*/*;q=0.8 
+[10/02/16 12:49:40] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:49:40] : Referer: http://localhost:8888/frameSup/web/index.php/article/index 
+[10/02/16 12:49:40] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:49:40] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:49:40] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:49:49] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:49:49] : Host: localhost:8888 
+[10/02/16 12:49:49] : Connection: keep-alive 
+[10/02/16 12:49:49] : Cache-Control: max-age=0 
+[10/02/16 12:49:49] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 12:49:49] : Upgrade-Insecure-Requests: 1 
+[10/02/16 12:49:49] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:49:49] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:49:49] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:49:49] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:49:50] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:49:50] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:49:50] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:49:50] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:49:50] : Host: localhost:8888 
+[10/02/16 12:49:50] : Connection: keep-alive 
+[10/02/16 12:49:50] : Accept: image/webp,image/*,*/*;q=0.8 
+[10/02/16 12:49:50] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:49:50] : Referer: http://localhost:8888/frameSup/web/index.php/article/index 
+[10/02/16 12:49:50] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:49:50] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:49:50] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:49:50] : Host: localhost:8888 
+[10/02/16 12:49:50] : Connection: keep-alive 
+[10/02/16 12:49:50] : Accept: */* 
+[10/02/16 12:49:50] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:49:50] : Referer: http://localhost:8888/frameSup/web/index.php/article/index 
+[10/02/16 12:49:50] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:49:50] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:49:50] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:49:50] : Host: localhost:8888 
+[10/02/16 12:49:50] : Connection: keep-alive 
+[10/02/16 12:49:50] : Accept: */* 
+[10/02/16 12:49:50] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:49:50] : Referer: http://localhost:8888/frameSup/web/index.php/article/index 
+[10/02/16 12:49:50] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:49:50] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:49:50] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:49:50] : Host: localhost:8888 
+[10/02/16 12:49:50] : Connection: keep-alive 
+[10/02/16 12:49:50] : Accept: */* 
+[10/02/16 12:49:50] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:49:50] : Referer: http://localhost:8888/frameSup/web/index.php/article/index 
+[10/02/16 12:49:50] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:49:50] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:49:50] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:49:50] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:49:51] : Host: localhost:8888 
+[10/02/16 12:49:51] : Connection: keep-alive 
+[10/02/16 12:49:51] : Accept: image/webp,image/*,*/*;q=0.8 
+[10/02/16 12:49:51] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:49:51] : Referer: http://localhost:8888/frameSup/web/index.php/article/index 
+[10/02/16 12:49:51] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:49:51] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:49:51] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:50:06] : SELECT * FROM Posts WHERE 1 ORDER BY id DESC LIMIT 0, 4; 
+[10/02/16 12:50:06] : Host: localhost:8888 
+[10/02/16 12:50:06] : Connection: keep-alive 
+[10/02/16 12:50:06] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 12:50:06] : Upgrade-Insecure-Requests: 1 
+[10/02/16 12:50:06] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:50:06] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:50:06] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:50:06] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:50:10] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:50:10] : Host: localhost:8888 
+[10/02/16 12:50:10] : Connection: keep-alive 
+[10/02/16 12:50:10] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 12:50:10] : Upgrade-Insecure-Requests: 1 
+[10/02/16 12:50:10] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:50:10] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 12:50:10] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:50:10] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:50:10] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:50:10] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:50:10] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:50:11] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:50:11] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:50:11] : Host: localhost:8888 
+[10/02/16 12:50:11] : Connection: keep-alive 
+[10/02/16 12:50:11] : Accept: */* 
+[10/02/16 12:50:11] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:50:11] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 12:50:11] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:50:11] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:50:11] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:50:11] : Host: localhost:8888 
+[10/02/16 12:50:11] : Connection: keep-alive 
+[10/02/16 12:50:11] : Accept: image/webp,image/*,*/*;q=0.8 
+[10/02/16 12:50:11] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:50:11] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 12:50:11] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:50:11] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:50:11] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:50:11] : Host: localhost:8888 
+[10/02/16 12:50:11] : Connection: keep-alive 
+[10/02/16 12:50:11] : Accept: */* 
+[10/02/16 12:50:11] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:50:11] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 12:50:11] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:50:11] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:50:11] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:50:11] : Host: localhost:8888 
+[10/02/16 12:50:11] : Connection: keep-alive 
+[10/02/16 12:50:11] : Accept: */* 
+[10/02/16 12:50:11] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:50:11] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 12:50:11] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:50:11] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:50:11] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:50:11] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:50:11] : Host: localhost:8888 
+[10/02/16 12:50:11] : Connection: keep-alive 
+[10/02/16 12:50:11] : Accept: image/webp,image/*,*/*;q=0.8 
+[10/02/16 12:50:11] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:50:11] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 12:50:11] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:50:11] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:50:11] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:50:14] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:50:14] : Host: localhost:8888 
+[10/02/16 12:50:14] : Connection: keep-alive 
+[10/02/16 12:50:14] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 12:50:14] : Upgrade-Insecure-Requests: 1 
+[10/02/16 12:50:14] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:50:14] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 12:50:14] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:50:14] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:50:14] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:50:15] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:50:15] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:50:15] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:50:15] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:50:15] : Host: localhost:8888 
+[10/02/16 12:50:15] : Connection: keep-alive 
+[10/02/16 12:50:15] : Accept: */* 
+[10/02/16 12:50:15] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:50:15] : Referer: http://localhost:8888/frameSup/web/index.php/article/index 
+[10/02/16 12:50:15] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:50:15] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:50:15] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:50:15] : Host: localhost:8888 
+[10/02/16 12:50:15] : Connection: keep-alive 
+[10/02/16 12:50:15] : Accept: image/webp,image/*,*/*;q=0.8 
+[10/02/16 12:50:15] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:50:15] : Referer: http://localhost:8888/frameSup/web/index.php/article/index 
+[10/02/16 12:50:15] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:50:15] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:50:15] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:50:15] : Host: localhost:8888 
+[10/02/16 12:50:15] : Connection: keep-alive 
+[10/02/16 12:50:15] : Accept: */* 
+[10/02/16 12:50:15] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:50:15] : Referer: http://localhost:8888/frameSup/web/index.php/article/index 
+[10/02/16 12:50:15] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:50:15] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:50:15] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:50:15] : Host: localhost:8888 
+[10/02/16 12:50:15] : Connection: keep-alive 
+[10/02/16 12:50:15] : Accept: */* 
+[10/02/16 12:50:15] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:50:15] : Referer: http://localhost:8888/frameSup/web/index.php/article/index 
+[10/02/16 12:50:15] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:50:15] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:50:15] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:50:16] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:50:16] : Host: localhost:8888 
+[10/02/16 12:50:16] : Connection: keep-alive 
+[10/02/16 12:50:16] : Accept: image/webp,image/*,*/*;q=0.8 
+[10/02/16 12:50:16] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:50:16] : Referer: http://localhost:8888/frameSup/web/index.php/article/index 
+[10/02/16 12:50:16] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:50:16] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:50:16] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:50:48] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:50:48] : Host: localhost:8888 
+[10/02/16 12:50:48] : Connection: keep-alive 
+[10/02/16 12:50:48] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 12:50:48] : Upgrade-Insecure-Requests: 1 
+[10/02/16 12:50:48] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:50:48] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:50:48] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:50:48] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:50:49] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:50:49] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:50:49] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:50:49] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:50:49] : Host: localhost:8888 
+[10/02/16 12:50:49] : Connection: keep-alive 
+[10/02/16 12:50:49] : Accept: image/webp,image/*,*/*;q=0.8 
+[10/02/16 12:50:49] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:50:49] : Referer: http://localhost:8888/frameSup/web/index.php/article/ 
+[10/02/16 12:50:49] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:50:49] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:50:49] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:50:49] : Host: localhost:8888 
+[10/02/16 12:50:49] : Connection: keep-alive 
+[10/02/16 12:50:49] : Accept: */* 
+[10/02/16 12:50:49] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:50:49] : Referer: http://localhost:8888/frameSup/web/index.php/article/ 
+[10/02/16 12:50:49] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:50:49] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:50:49] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:50:49] : Host: localhost:8888 
+[10/02/16 12:50:49] : Connection: keep-alive 
+[10/02/16 12:50:49] : Accept: */* 
+[10/02/16 12:50:49] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:50:49] : Referer: http://localhost:8888/frameSup/web/index.php/article/ 
+[10/02/16 12:50:49] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:50:49] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:50:49] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:50:49] : Host: localhost:8888 
+[10/02/16 12:50:49] : Connection: keep-alive 
+[10/02/16 12:50:49] : Accept: */* 
+[10/02/16 12:50:49] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:50:49] : Referer: http://localhost:8888/frameSup/web/index.php/article/ 
+[10/02/16 12:50:49] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:50:49] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:50:49] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:50:49] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:50:50] : Host: localhost:8888 
+[10/02/16 12:50:50] : Connection: keep-alive 
+[10/02/16 12:50:50] : Accept: image/webp,image/*,*/*;q=0.8 
+[10/02/16 12:50:50] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:50:50] : Referer: http://localhost:8888/frameSup/web/index.php/article/ 
+[10/02/16 12:50:50] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:50:50] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:50:50] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:51:07] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:51:07] : Host: localhost:8888 
+[10/02/16 12:51:07] : Connection: keep-alive 
+[10/02/16 12:51:07] : Cache-Control: max-age=0 
+[10/02/16 12:51:07] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 12:51:07] : Upgrade-Insecure-Requests: 1 
+[10/02/16 12:51:07] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:51:07] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:51:07] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:51:07] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:51:07] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:51:07] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:51:07] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:51:07] : Host: localhost:8888 
+[10/02/16 12:51:07] : Connection: keep-alive 
+[10/02/16 12:51:07] : Cache-Control: max-age=0 
+[10/02/16 12:51:07] : Accept: */* 
+[10/02/16 12:51:07] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:51:07] : Referer: http://localhost:8888/frameSup/web/index.php/article/ 
+[10/02/16 12:51:07] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:51:07] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:51:07] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:51:08] : Host: localhost:8888 
+[10/02/16 12:51:08] : Connection: keep-alive 
+[10/02/16 12:51:08] : Cache-Control: max-age=0 
+[10/02/16 12:51:08] : Accept: */* 
+[10/02/16 12:51:08] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:51:08] : Referer: http://localhost:8888/frameSup/web/index.php/article/ 
+[10/02/16 12:51:08] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:51:08] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:51:08] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:51:08] : Host: localhost:8888 
+[10/02/16 12:51:08] : Connection: keep-alive 
+[10/02/16 12:51:08] : Cache-Control: max-age=0 
+[10/02/16 12:51:08] : Accept: */* 
+[10/02/16 12:51:08] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:51:08] : Referer: http://localhost:8888/frameSup/web/index.php/article/ 
+[10/02/16 12:51:08] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:51:08] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:51:08] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:52:48] : SELECT * FROM Posts WHERE 1 ORDER BY id DESC LIMIT 0, 4; 
+[10/02/16 12:52:48] : Host: localhost:8888 
+[10/02/16 12:52:48] : Connection: keep-alive 
+[10/02/16 12:52:48] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 12:52:48] : Upgrade-Insecure-Requests: 1 
+[10/02/16 12:52:48] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:52:48] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:52:48] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:52:48] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:52:54] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:52:55] : Host: localhost:8888 
+[10/02/16 12:52:55] : Connection: keep-alive 
+[10/02/16 12:52:55] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 12:52:55] : Upgrade-Insecure-Requests: 1 
+[10/02/16 12:52:55] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:52:55] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 12:52:55] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:52:55] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:52:55] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:52:55] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:52:55] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:52:55] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:52:55] : Host: localhost:8888 
+[10/02/16 12:52:55] : Connection: keep-alive 
+[10/02/16 12:52:55] : Accept: */* 
+[10/02/16 12:52:55] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:52:55] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 12:52:55] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:52:55] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:52:55] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:52:55] : Host: localhost:8888 
+[10/02/16 12:52:55] : Connection: keep-alive 
+[10/02/16 12:52:55] : Accept: */* 
+[10/02/16 12:52:55] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:52:55] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 12:52:55] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:52:55] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:52:55] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:52:55] : Host: localhost:8888 
+[10/02/16 12:52:55] : Connection: keep-alive 
+[10/02/16 12:52:55] : Accept: */* 
+[10/02/16 12:52:55] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:52:55] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 12:52:55] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:52:55] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:52:55] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:55:18] : SELECT * FROM Posts WHERE 1 ORDER BY id DESC LIMIT 0, 4; 
+[10/02/16 12:55:18] : Host: localhost:8888 
+[10/02/16 12:55:18] : Connection: keep-alive 
+[10/02/16 12:55:18] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 12:55:18] : Upgrade-Insecure-Requests: 1 
+[10/02/16 12:55:18] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:55:18] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:55:18] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:55:18] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:57:33] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:57:33] : Host: localhost:8888 
+[10/02/16 12:57:33] : Connection: keep-alive 
+[10/02/16 12:57:33] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 12:57:33] : Upgrade-Insecure-Requests: 1 
+[10/02/16 12:57:33] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:57:33] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 12:57:33] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:57:33] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:57:33] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:57:34] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:57:34] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:57:34] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:57:34] : Host: localhost:8888 
+[10/02/16 12:57:34] : Connection: keep-alive 
+[10/02/16 12:57:34] : Accept: */* 
+[10/02/16 12:57:34] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:57:34] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 12:57:34] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:57:34] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:57:34] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:57:34] : Host: localhost:8888 
+[10/02/16 12:57:34] : Connection: keep-alive 
+[10/02/16 12:57:34] : Accept: */* 
+[10/02/16 12:57:34] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:57:34] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 12:57:34] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:57:34] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:57:34] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:57:34] : Host: localhost:8888 
+[10/02/16 12:57:34] : Connection: keep-alive 
+[10/02/16 12:57:34] : Accept: */* 
+[10/02/16 12:57:34] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:57:34] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 12:57:34] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:57:34] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:57:34] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:57:36] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:57:36] : Host: localhost:8888 
+[10/02/16 12:57:36] : Connection: keep-alive 
+[10/02/16 12:57:36] : Cache-Control: max-age=0 
+[10/02/16 12:57:36] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 12:57:36] : Upgrade-Insecure-Requests: 1 
+[10/02/16 12:57:36] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:57:36] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 12:57:36] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:57:36] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:57:36] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:57:36] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:57:36] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:57:36] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:57:37] : Host: localhost:8888 
+[10/02/16 12:57:37] : Connection: keep-alive 
+[10/02/16 12:57:37] : Cache-Control: max-age=0 
+[10/02/16 12:57:37] : Accept: */* 
+[10/02/16 12:57:37] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:57:37] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 12:57:37] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:57:37] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:57:37] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:57:37] : Host: localhost:8888 
+[10/02/16 12:57:37] : Connection: keep-alive 
+[10/02/16 12:57:37] : Cache-Control: max-age=0 
+[10/02/16 12:57:37] : Accept: */* 
+[10/02/16 12:57:37] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:57:37] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 12:57:37] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:57:37] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:57:37] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:57:37] : Host: localhost:8888 
+[10/02/16 12:57:37] : Connection: keep-alive 
+[10/02/16 12:57:37] : Cache-Control: max-age=0 
+[10/02/16 12:57:37] : Accept: */* 
+[10/02/16 12:57:37] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:57:37] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 12:57:37] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:57:37] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:57:37] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:57:38] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:57:38] : Host: localhost:8888 
+[10/02/16 12:57:38] : Connection: keep-alive 
+[10/02/16 12:57:38] : Cache-Control: max-age=0 
+[10/02/16 12:57:38] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 12:57:38] : Upgrade-Insecure-Requests: 1 
+[10/02/16 12:57:38] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:57:38] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 12:57:38] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:57:38] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:57:38] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:57:38] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:57:38] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:57:38] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:57:38] : Host: localhost:8888 
+[10/02/16 12:57:38] : Connection: keep-alive 
+[10/02/16 12:57:38] : Cache-Control: max-age=0 
+[10/02/16 12:57:38] : Accept: */* 
+[10/02/16 12:57:38] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:57:38] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 12:57:38] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:57:38] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:57:38] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:57:38] : Host: localhost:8888 
+[10/02/16 12:57:38] : Connection: keep-alive 
+[10/02/16 12:57:38] : Cache-Control: max-age=0 
+[10/02/16 12:57:38] : Accept: */* 
+[10/02/16 12:57:38] : Host: localhost:8888 
+[10/02/16 12:57:38] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:57:38] : Connection: keep-alive 
+[10/02/16 12:57:38] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 12:57:38] : Cache-Control: max-age=0 
+[10/02/16 12:57:38] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:57:38] : Accept: */* 
+[10/02/16 12:57:38] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:57:38] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:57:38] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:57:38] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 12:57:38] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:57:38] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:57:38] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:58:11] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:58:12] : Host: localhost:8888 
+[10/02/16 12:58:12] : Connection: keep-alive 
+[10/02/16 12:58:12] : Cache-Control: max-age=0 
+[10/02/16 12:58:12] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 12:58:12] : Upgrade-Insecure-Requests: 1 
+[10/02/16 12:58:12] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:58:12] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 12:58:12] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:58:12] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:58:12] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:58:12] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:58:12] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:58:12] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:58:12] : Host: localhost:8888 
+[10/02/16 12:58:12] : Connection: keep-alive 
+[10/02/16 12:58:12] : Cache-Control: max-age=0 
+[10/02/16 12:58:12] : Accept: */* 
+[10/02/16 12:58:12] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:58:12] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 12:58:12] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:58:12] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:58:12] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:58:12] : Host: localhost:8888 
+[10/02/16 12:58:12] : Connection: keep-alive 
+[10/02/16 12:58:12] : Cache-Control: max-age=0 
+[10/02/16 12:58:12] : Accept: */* 
+[10/02/16 12:58:12] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:58:12] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 12:58:12] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:58:12] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:58:12] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:58:12] : Host: localhost:8888 
+[10/02/16 12:58:12] : Connection: keep-alive 
+[10/02/16 12:58:12] : Cache-Control: max-age=0 
+[10/02/16 12:58:12] : Accept: */* 
+[10/02/16 12:58:12] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:58:12] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 12:58:12] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:58:12] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:58:12] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:58:23] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:58:23] : Host: localhost:8888 
+[10/02/16 12:58:23] : Connection: keep-alive 
+[10/02/16 12:58:23] : Cache-Control: max-age=0 
+[10/02/16 12:58:23] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 12:58:23] : Upgrade-Insecure-Requests: 1 
+[10/02/16 12:58:23] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:58:23] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 12:58:23] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:58:23] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:58:23] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:58:23] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:58:23] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:58:24] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:58:24] : Host: localhost:8888 
+[10/02/16 12:58:24] : Connection: keep-alive 
+[10/02/16 12:58:24] : Cache-Control: max-age=0 
+[10/02/16 12:58:24] : Accept: */* 
+[10/02/16 12:58:24] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:58:24] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 12:58:24] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:58:24] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:58:24] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:58:24] : Host: localhost:8888 
+[10/02/16 12:58:24] : Connection: keep-alive 
+[10/02/16 12:58:24] : Cache-Control: max-age=0 
+[10/02/16 12:58:24] : Accept: */* 
+[10/02/16 12:58:24] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:58:24] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 12:58:24] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:58:24] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:58:24] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:58:24] : Host: localhost:8888 
+[10/02/16 12:58:24] : Connection: keep-alive 
+[10/02/16 12:58:24] : Cache-Control: max-age=0 
+[10/02/16 12:58:24] : Accept: */* 
+[10/02/16 12:58:24] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:58:24] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 12:58:24] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:58:24] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:58:24] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:59:30] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:59:30] : Host: localhost:8888 
+[10/02/16 12:59:30] : Connection: keep-alive 
+[10/02/16 12:59:30] : Cache-Control: max-age=0 
+[10/02/16 12:59:30] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 12:59:30] : Upgrade-Insecure-Requests: 1 
+[10/02/16 12:59:30] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:59:30] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 12:59:30] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:59:30] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:59:30] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:59:31] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:59:31] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:59:31] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:59:31] : Host: localhost:8888 
+[10/02/16 12:59:31] : Connection: keep-alive 
+[10/02/16 12:59:31] : Cache-Control: max-age=0 
+[10/02/16 12:59:31] : Accept: */* 
+[10/02/16 12:59:31] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:59:31] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 12:59:31] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:59:31] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:59:31] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:59:31] : Host: localhost:8888 
+[10/02/16 12:59:31] : Connection: keep-alive 
+[10/02/16 12:59:31] : Cache-Control: max-age=0 
+[10/02/16 12:59:31] : Accept: */* 
+[10/02/16 12:59:31] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:59:31] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 12:59:31] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:59:31] : Host: localhost:8888 
+[10/02/16 12:59:31] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:59:31] : Connection: keep-alive 
+[10/02/16 12:59:31] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:59:31] : Cache-Control: max-age=0 
+[10/02/16 12:59:31] : Accept: */* 
+[10/02/16 12:59:31] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:59:31] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 12:59:31] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:59:31] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:59:31] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:59:36] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:59:36] : Host: localhost:8888 
+[10/02/16 12:59:36] : Connection: keep-alive 
+[10/02/16 12:59:36] : Cache-Control: max-age=0 
+[10/02/16 12:59:36] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 12:59:36] : Upgrade-Insecure-Requests: 1 
+[10/02/16 12:59:36] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:59:36] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 12:59:36] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:59:36] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:59:36] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:59:37] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:59:37] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:59:37] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 12:59:37] : Host: localhost:8888 
+[10/02/16 12:59:37] : Connection: keep-alive 
+[10/02/16 12:59:37] : Cache-Control: max-age=0 
+[10/02/16 12:59:37] : Accept: */* 
+[10/02/16 12:59:37] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:59:37] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 12:59:37] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:59:37] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:59:37] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:59:37] : Host: localhost:8888 
+[10/02/16 12:59:37] : Connection: keep-alive 
+[10/02/16 12:59:37] : Cache-Control: max-age=0 
+[10/02/16 12:59:37] : Accept: */* 
+[10/02/16 12:59:37] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:59:37] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 12:59:37] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:59:37] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:59:37] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 12:59:37] : Host: localhost:8888 
+[10/02/16 12:59:37] : Connection: keep-alive 
+[10/02/16 12:59:37] : Cache-Control: max-age=0 
+[10/02/16 12:59:37] : Accept: */* 
+[10/02/16 12:59:37] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 12:59:37] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 12:59:37] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 12:59:37] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 12:59:37] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:01:11] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:01:12] : Host: localhost:8888 
+[10/02/16 13:01:12] : Connection: keep-alive 
+[10/02/16 13:01:12] : Cache-Control: max-age=0 
+[10/02/16 13:01:12] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:01:12] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:01:12] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:01:12] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 13:01:12] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:01:12] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:01:12] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:01:12] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:01:12] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:01:12] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:01:12] : Host: localhost:8888 
+[10/02/16 13:01:12] : Connection: keep-alive 
+[10/02/16 13:01:12] : Cache-Control: max-age=0 
+[10/02/16 13:01:12] : Accept: */* 
+[10/02/16 13:01:12] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:01:12] : Host: localhost:8888 
+[10/02/16 13:01:12] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 13:01:12] : Connection: keep-alive 
+[10/02/16 13:01:12] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:01:12] : Cache-Control: max-age=0 
+[10/02/16 13:01:12] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:01:12] : Accept: */* 
+[10/02/16 13:01:12] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:01:12] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:01:12] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 13:01:12] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:01:12] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:01:12] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:01:12] : Host: localhost:8888 
+[10/02/16 13:01:12] : Connection: keep-alive 
+[10/02/16 13:01:12] : Cache-Control: max-age=0 
+[10/02/16 13:01:12] : Accept: */* 
+[10/02/16 13:01:12] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:01:12] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 13:01:12] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:01:12] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:01:12] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:01:25] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:01:41] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:01:41] : Host: localhost:8888 
+[10/02/16 13:01:41] : Connection: keep-alive 
+[10/02/16 13:01:41] : Cache-Control: max-age=0 
+[10/02/16 13:01:41] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:01:41] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:01:41] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:01:41] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:01:41] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:01:41] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:01:42] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:01:42] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:01:42] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:01:42] : Host: localhost:8888 
+[10/02/16 13:01:42] : Connection: keep-alive 
+[10/02/16 13:01:42] : Cache-Control: max-age=0 
+[10/02/16 13:01:42] : Accept: */* 
+[10/02/16 13:01:42] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:01:42] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 13:01:42] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:01:42] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:01:42] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:01:42] : Host: localhost:8888 
+[10/02/16 13:01:42] : Connection: keep-alive 
+[10/02/16 13:01:42] : Cache-Control: max-age=0 
+[10/02/16 13:01:42] : Accept: */* 
+[10/02/16 13:01:42] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:01:42] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 13:01:42] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:01:42] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:01:42] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:01:42] : Host: localhost:8888 
+[10/02/16 13:01:42] : Connection: keep-alive 
+[10/02/16 13:01:42] : Cache-Control: max-age=0 
+[10/02/16 13:01:42] : Accept: */* 
+[10/02/16 13:01:42] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:01:42] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 13:01:42] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:01:42] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:01:42] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:14:09] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:14:09] : Host: localhost:8888 
+[10/02/16 13:14:09] : Connection: keep-alive 
+[10/02/16 13:14:09] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:14:09] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:14:09] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:14:09] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:14:09] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:14:09] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:14:09] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:14:09] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:14:09] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:14:10] : Host: localhost:8888 
+[10/02/16 13:14:10] : Connection: keep-alive 
+[10/02/16 13:14:10] : Accept: */* 
+[10/02/16 13:14:10] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:14:10] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 13:14:10] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:14:10] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:14:10] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:14:10] : Host: localhost:8888 
+[10/02/16 13:14:10] : Connection: keep-alive 
+[10/02/16 13:14:10] : Accept: */* 
+[10/02/16 13:14:10] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:14:10] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 13:14:10] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:14:10] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:14:10] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:14:10] : Host: localhost:8888 
+[10/02/16 13:14:10] : Connection: keep-alive 
+[10/02/16 13:14:10] : Accept: */* 
+[10/02/16 13:14:10] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:14:10] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 13:14:10] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:14:10] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:14:10] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:20:44] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:20:47] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:20:49] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:20:51] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:20:52] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:20:53] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:20:54] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:20:55] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:20:58] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:21:19] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:21:19] : Host: localhost:8888 
+[10/02/16 13:21:19] : Connection: keep-alive 
+[10/02/16 13:21:19] : Cache-Control: max-age=0 
+[10/02/16 13:21:19] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:21:19] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:21:19] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:21:19] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:21:19] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:21:19] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:21:19] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:21:19] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:21:19] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:21:19] : Host: localhost:8888 
+[10/02/16 13:21:19] : Connection: keep-alive 
+[10/02/16 13:21:19] : Cache-Control: max-age=0 
+[10/02/16 13:21:19] : Accept: */* 
+[10/02/16 13:21:19] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:21:19] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 13:21:19] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:21:19] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:21:19] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:21:19] : Host: localhost:8888 
+[10/02/16 13:21:19] : Connection: keep-alive 
+[10/02/16 13:21:19] : Cache-Control: max-age=0 
+[10/02/16 13:21:19] : Accept: */* 
+[10/02/16 13:21:19] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:21:19] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 13:21:19] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:21:19] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:21:19] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:21:19] : Host: localhost:8888 
+[10/02/16 13:21:20] : Connection: keep-alive 
+[10/02/16 13:21:20] : Cache-Control: max-age=0 
+[10/02/16 13:21:20] : Accept: */* 
+[10/02/16 13:21:20] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:21:20] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 13:21:20] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:21:20] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:21:20] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:21:28] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:21:30] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:21:38] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:21:39] : Host: localhost:8888 
+[10/02/16 13:21:39] : Connection: keep-alive 
+[10/02/16 13:21:39] : Cache-Control: max-age=0 
+[10/02/16 13:21:39] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:21:39] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:21:39] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:21:39] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:21:39] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:21:39] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:21:39] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:21:39] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:21:39] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:21:39] : Host: localhost:8888 
+[10/02/16 13:21:39] : Connection: keep-alive 
+[10/02/16 13:21:39] : Cache-Control: max-age=0 
+[10/02/16 13:21:39] : Accept: */* 
+[10/02/16 13:21:39] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:21:39] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 13:21:39] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:21:39] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:21:39] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:21:39] : Host: localhost:8888 
+[10/02/16 13:21:39] : Connection: keep-alive 
+[10/02/16 13:21:39] : Cache-Control: max-age=0 
+[10/02/16 13:21:39] : Accept: */* 
+[10/02/16 13:21:39] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:21:39] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 13:21:39] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:21:39] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:21:39] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:21:39] : Host: localhost:8888 
+[10/02/16 13:21:39] : Connection: keep-alive 
+[10/02/16 13:21:39] : Cache-Control: max-age=0 
+[10/02/16 13:21:39] : Accept: */* 
+[10/02/16 13:21:39] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:21:39] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 13:21:39] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:21:39] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:21:39] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:21:51] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:21:51] : Host: localhost:8888 
+[10/02/16 13:21:51] : Connection: keep-alive 
+[10/02/16 13:21:51] : Cache-Control: max-age=0 
+[10/02/16 13:21:51] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:21:51] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:21:51] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:21:51] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:21:51] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:21:51] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:21:51] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:21:52] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:21:52] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:21:52] : Host: localhost:8888 
+[10/02/16 13:21:52] : Connection: keep-alive 
+[10/02/16 13:21:52] : Cache-Control: max-age=0 
+[10/02/16 13:21:52] : Accept: */* 
+[10/02/16 13:21:52] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:21:52] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 13:21:52] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:21:52] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:21:52] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:21:52] : Host: localhost:8888 
+[10/02/16 13:21:52] : Connection: keep-alive 
+[10/02/16 13:21:52] : Cache-Control: max-age=0 
+[10/02/16 13:21:52] : Accept: */* 
+[10/02/16 13:21:52] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:21:52] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 13:21:52] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:21:52] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:21:52] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:21:52] : Host: localhost:8888 
+[10/02/16 13:21:52] : Connection: keep-alive 
+[10/02/16 13:21:52] : Cache-Control: max-age=0 
+[10/02/16 13:21:52] : Accept: */* 
+[10/02/16 13:21:52] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:21:52] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 13:21:52] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:21:52] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:21:52] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:22:20] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:23:10] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:23:11] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:23:16] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:23:16] : Host: localhost:8888 
+[10/02/16 13:23:16] : Connection: keep-alive 
+[10/02/16 13:23:16] : Cache-Control: max-age=0 
+[10/02/16 13:23:16] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:23:16] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:23:16] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:23:16] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:23:16] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:23:16] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:23:16] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:23:16] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:23:16] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:23:17] : Host: localhost:8888 
+[10/02/16 13:23:17] : Connection: keep-alive 
+[10/02/16 13:23:17] : Cache-Control: max-age=0 
+[10/02/16 13:23:17] : Accept: */* 
+[10/02/16 13:23:17] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:23:17] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 13:23:17] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:23:17] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:23:17] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:23:17] : Host: localhost:8888 
+[10/02/16 13:23:17] : Connection: keep-alive 
+[10/02/16 13:23:17] : Cache-Control: max-age=0 
+[10/02/16 13:23:17] : Accept: */* 
+[10/02/16 13:23:17] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:23:17] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 13:23:17] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:23:17] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:23:17] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:23:17] : Host: localhost:8888 
+[10/02/16 13:23:17] : Connection: keep-alive 
+[10/02/16 13:23:17] : Cache-Control: max-age=0 
+[10/02/16 13:23:17] : Accept: */* 
+[10/02/16 13:23:17] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:23:17] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 13:23:17] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:23:17] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:23:17] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:23:36] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:24:04] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:24:04] : Host: localhost:8888 
+[10/02/16 13:24:04] : Connection: keep-alive 
+[10/02/16 13:24:04] : Cache-Control: max-age=0 
+[10/02/16 13:24:04] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:24:04] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:24:04] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:24:04] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:24:04] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:24:04] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:24:04] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:24:04] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:24:04] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:24:05] : Host: localhost:8888 
+[10/02/16 13:24:05] : Connection: keep-alive 
+[10/02/16 13:24:05] : Cache-Control: max-age=0 
+[10/02/16 13:24:05] : Accept: */* 
+[10/02/16 13:24:05] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:24:05] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 13:24:05] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:24:05] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:24:05] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:24:05] : Host: localhost:8888 
+[10/02/16 13:24:05] : Host: localhost:8888 
+[10/02/16 13:24:05] : Connection: keep-alive 
+[10/02/16 13:24:05] : Cache-Control: max-age=0 
+[10/02/16 13:24:05] : Connection: keep-alive 
+[10/02/16 13:24:05] : Cache-Control: max-age=0 
+[10/02/16 13:24:05] : Accept: */* 
+[10/02/16 13:24:05] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:24:05] : Accept: */* 
+[10/02/16 13:24:05] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 13:24:05] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:24:05] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:24:05] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 13:24:05] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:24:05] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:24:05] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:24:05] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:24:05] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:24:28] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:24:32] : SELECT * FROM Posts WHERE 1 ORDER BY id DESC LIMIT 0, 4; 
+[10/02/16 13:24:37] : SELECT * FROM Posts WHERE 1 ORDER BY id DESC LIMIT 0, 4; 
+[10/02/16 13:24:37] : Host: localhost:8888 
+[10/02/16 13:24:37] : Connection: keep-alive 
+[10/02/16 13:24:37] : Cache-Control: max-age=0 
+[10/02/16 13:24:37] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:24:37] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:24:37] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:24:37] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:24:37] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:24:37] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:25:23] : SELECT * FROM Posts WHERE 1 ORDER BY id DESC LIMIT 0, 4; 
+[10/02/16 13:25:23] : Host: localhost:8888 
+[10/02/16 13:25:23] : Connection: keep-alive 
+[10/02/16 13:25:23] : Cache-Control: max-age=0 
+[10/02/16 13:25:23] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:25:23] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:25:23] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:25:23] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:25:23] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:25:23] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:25:29] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:25:29] : Host: localhost:8888 
+[10/02/16 13:25:29] : Connection: keep-alive 
+[10/02/16 13:25:29] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:25:29] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:25:29] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:25:29] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 13:25:29] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:25:29] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:25:29] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:25:29] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:25:29] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:25:29] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:25:29] : Host: localhost:8888 
+[10/02/16 13:25:29] : Connection: keep-alive 
+[10/02/16 13:25:29] : Accept: */* 
+[10/02/16 13:25:29] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:25:29] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 13:25:29] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:25:29] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:25:29] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:25:29] : Host: localhost:8888 
+[10/02/16 13:25:29] : Connection: keep-alive 
+[10/02/16 13:25:29] : Accept: */* 
+[10/02/16 13:25:29] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:25:29] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 13:25:29] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:25:29] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:25:29] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:25:29] : Host: localhost:8888 
+[10/02/16 13:25:29] : Connection: keep-alive 
+[10/02/16 13:25:29] : Accept: */* 
+[10/02/16 13:25:29] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:25:29] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 13:25:29] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:25:29] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:25:29] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:25:44] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:25:44] : Host: localhost:8888 
+[10/02/16 13:25:44] : Connection: keep-alive 
+[10/02/16 13:25:44] : Cache-Control: max-age=0 
+[10/02/16 13:25:44] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:25:44] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:25:44] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:25:44] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 13:25:44] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:25:44] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:25:44] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:25:44] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:25:44] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:25:44] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:25:44] : Host: localhost:8888 
+[10/02/16 13:25:44] : Connection: keep-alive 
+[10/02/16 13:25:44] : Cache-Control: max-age=0 
+[10/02/16 13:25:44] : Accept: */* 
+[10/02/16 13:25:44] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:25:44] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 13:25:44] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:25:44] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:25:44] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:25:44] : Host: localhost:8888 
+[10/02/16 13:25:44] : Connection: keep-alive 
+[10/02/16 13:25:44] : Cache-Control: max-age=0 
+[10/02/16 13:25:44] : Accept: */* 
+[10/02/16 13:25:44] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:25:44] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 13:25:44] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:25:44] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:25:44] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:25:45] : Host: localhost:8888 
+[10/02/16 13:25:45] : Connection: keep-alive 
+[10/02/16 13:25:45] : Cache-Control: max-age=0 
+[10/02/16 13:25:45] : Accept: */* 
+[10/02/16 13:25:45] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:25:45] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 13:25:45] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:25:45] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:25:45] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:25:49] : SELECT * FROM Posts WHERE 1 ORDER BY id DESC LIMIT 0, 4; 
+[10/02/16 13:25:49] : Host: localhost:8888 
+[10/02/16 13:25:49] : Connection: keep-alive 
+[10/02/16 13:25:49] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:25:49] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:25:49] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:25:49] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:25:49] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:25:49] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:26:11] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:26:11] : Host: localhost:8888 
+[10/02/16 13:26:11] : Connection: keep-alive 
+[10/02/16 13:26:11] : Cache-Control: max-age=0 
+[10/02/16 13:26:11] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:26:11] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:26:11] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:26:11] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 13:26:11] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:26:11] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:26:11] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:26:11] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:26:11] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:26:11] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:26:12] : Host: localhost:8888 
+[10/02/16 13:26:12] : Connection: keep-alive 
+[10/02/16 13:26:12] : Cache-Control: max-age=0 
+[10/02/16 13:26:12] : Accept: */* 
+[10/02/16 13:26:12] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:26:12] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 13:26:12] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:26:12] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:26:12] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:26:12] : Host: localhost:8888 
+[10/02/16 13:26:12] : Connection: keep-alive 
+[10/02/16 13:26:12] : Cache-Control: max-age=0 
+[10/02/16 13:26:12] : Accept: */* 
+[10/02/16 13:26:12] : Host: localhost:8888 
+[10/02/16 13:26:12] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:26:12] : Connection: keep-alive 
+[10/02/16 13:26:12] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 13:26:12] : Cache-Control: max-age=0 
+[10/02/16 13:26:12] : Accept: */* 
+[10/02/16 13:26:12] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:26:12] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:26:12] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:26:12] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 13:26:12] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:26:12] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:26:12] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:26:12] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:26:15] : SELECT * FROM Posts WHERE 1 ORDER BY id DESC LIMIT 0, 4; 
+[10/02/16 13:26:15] : Host: localhost:8888 
+[10/02/16 13:26:15] : Connection: keep-alive 
+[10/02/16 13:26:15] : Cache-Control: max-age=0 
+[10/02/16 13:26:15] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:26:15] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:26:15] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:26:15] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:26:15] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:26:15] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:26:47] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:26:48] : Host: localhost:8888 
+[10/02/16 13:26:48] : Connection: keep-alive 
+[10/02/16 13:26:48] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:26:48] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:26:48] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:26:48] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 13:26:48] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:26:48] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:26:48] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:26:48] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:26:48] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:26:48] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:26:48] : Host: localhost:8888 
+[10/02/16 13:26:48] : Connection: keep-alive 
+[10/02/16 13:26:48] : Accept: */* 
+[10/02/16 13:26:48] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:26:48] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 13:26:48] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:26:48] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:26:48] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:26:48] : Host: localhost:8888 
+[10/02/16 13:26:48] : Connection: keep-alive 
+[10/02/16 13:26:48] : Accept: */* 
+[10/02/16 13:26:48] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:26:48] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 13:26:48] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:26:48] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:26:48] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:26:48] : Host: localhost:8888 
+[10/02/16 13:26:48] : Connection: keep-alive 
+[10/02/16 13:26:48] : Accept: */* 
+[10/02/16 13:26:48] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:26:48] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 13:26:48] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:26:48] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:26:48] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:27:00] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:27:00] : Host: localhost:8888 
+[10/02/16 13:27:00] : Connection: keep-alive 
+[10/02/16 13:27:00] : Cache-Control: max-age=0 
+[10/02/16 13:27:00] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:27:00] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:27:00] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:27:00] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 13:27:00] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:27:00] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:27:00] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:27:00] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:27:00] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:27:00] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:27:00] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:27:01] : Host: localhost:8888 
+[10/02/16 13:27:01] : Connection: keep-alive 
+[10/02/16 13:27:01] : Cache-Control: max-age=0 
+[10/02/16 13:27:01] : Accept: */* 
+[10/02/16 13:27:01] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:27:01] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 13:27:01] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:27:01] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:27:01] : Host: localhost:8888 
+[10/02/16 13:27:01] : Connection: keep-alive 
+[10/02/16 13:27:01] : Cache-Control: max-age=0 
+[10/02/16 13:27:01] : Accept: */* 
+[10/02/16 13:27:01] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:27:01] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 13:27:01] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:27:01] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:27:01] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:27:01] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:27:01] : Host: localhost:8888 
+[10/02/16 13:27:01] : Connection: keep-alive 
+[10/02/16 13:27:01] : Host: localhost:8888 
+[10/02/16 13:27:01] : Connection: keep-alive 
+[10/02/16 13:27:01] : Cache-Control: max-age=0 
+[10/02/16 13:27:01] : Cache-Control: max-age=0 
+[10/02/16 13:27:01] : Accept: */* 
+[10/02/16 13:27:01] : Accept: image/webp,image/*,*/*;q=0.8 
+[10/02/16 13:27:01] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:27:01] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:27:01] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 13:27:01] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 13:27:01] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:27:01] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:27:01] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:27:01] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:27:01] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:27:01] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:27:23] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:27:24] : Host: localhost:8888 
+[10/02/16 13:27:24] : Connection: keep-alive 
+[10/02/16 13:27:24] : Cache-Control: max-age=0 
+[10/02/16 13:27:24] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:27:24] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:27:24] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:27:24] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 13:27:24] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:27:24] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:27:24] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:27:24] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:27:24] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:27:24] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:27:24] : Host: localhost:8888 
+[10/02/16 13:27:24] : Connection: keep-alive 
+[10/02/16 13:27:24] : Cache-Control: max-age=0 
+[10/02/16 13:27:24] : Accept: */* 
+[10/02/16 13:27:24] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:27:24] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 13:27:24] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:27:24] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:27:24] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:27:24] : Host: localhost:8888 
+[10/02/16 13:27:24] : Connection: keep-alive 
+[10/02/16 13:27:24] : Cache-Control: max-age=0 
+[10/02/16 13:27:24] : Accept: */* 
+[10/02/16 13:27:24] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:27:24] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 13:27:24] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:27:24] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:27:24] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:27:24] : Host: localhost:8888 
+[10/02/16 13:27:24] : Connection: keep-alive 
+[10/02/16 13:27:24] : Cache-Control: max-age=0 
+[10/02/16 13:27:24] : Accept: */* 
+[10/02/16 13:27:24] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:27:24] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 13:27:24] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:27:24] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:27:24] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:33:07] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:33:07] : Host: localhost:8888 
+[10/02/16 13:33:07] : Connection: keep-alive 
+[10/02/16 13:33:07] : Cache-Control: max-age=0 
+[10/02/16 13:33:07] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:33:07] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:33:07] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:33:07] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 13:33:07] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:33:07] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:33:07] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:33:08] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:33:08] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:33:08] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:33:08] : Host: localhost:8888 
+[10/02/16 13:33:08] : Connection: keep-alive 
+[10/02/16 13:33:08] : Cache-Control: max-age=0 
+[10/02/16 13:33:08] : Accept: */* 
+[10/02/16 13:33:08] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:33:08] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 13:33:08] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:33:08] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:33:08] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:33:08] : Host: localhost:8888 
+[10/02/16 13:33:08] : Connection: keep-alive 
+[10/02/16 13:33:08] : Cache-Control: max-age=0 
+[10/02/16 13:33:08] : Accept: */* 
+[10/02/16 13:33:08] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:33:08] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 13:33:08] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:33:08] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:33:08] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:33:08] : Host: localhost:8888 
+[10/02/16 13:33:08] : Connection: keep-alive 
+[10/02/16 13:33:08] : Cache-Control: max-age=0 
+[10/02/16 13:33:08] : Accept: */* 
+[10/02/16 13:33:08] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:33:08] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 13:33:08] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:33:08] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:33:08] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:33:25] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:33:25] : Host: localhost:8888 
+[10/02/16 13:33:25] : Connection: keep-alive 
+[10/02/16 13:33:25] : Cache-Control: max-age=0 
+[10/02/16 13:33:25] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:33:25] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:33:25] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:33:25] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 13:33:25] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:33:25] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:33:25] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:33:34] : SELECT * FROM Posts WHERE 1 ORDER BY id DESC LIMIT 0, 4; 
+[10/02/16 13:33:34] : Host: localhost:8888 
+[10/02/16 13:33:34] : Connection: keep-alive 
+[10/02/16 13:33:34] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:33:34] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:33:34] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:33:34] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:33:34] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:33:34] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:35:26] : SELECT * FROM Posts WHERE 1 ORDER BY id DESC LIMIT 0, 4; 
+[10/02/16 13:35:26] : Host: localhost:8888 
+[10/02/16 13:35:26] : Connection: keep-alive 
+[10/02/16 13:35:26] : Cache-Control: max-age=0 
+[10/02/16 13:35:26] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:35:26] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:35:26] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:35:26] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:35:26] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:35:26] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:35:47] : SELECT * FROM Posts WHERE 1 ORDER BY id DESC LIMIT 0, 4; 
+[10/02/16 13:35:47] : Host: localhost:8888 
+[10/02/16 13:35:47] : Connection: keep-alive 
+[10/02/16 13:35:47] : Cache-Control: max-age=0 
+[10/02/16 13:35:47] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:35:47] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:35:47] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:35:47] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:35:47] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:35:47] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:36:36] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:36:36] : Host: localhost:8888 
+[10/02/16 13:36:36] : Connection: keep-alive 
+[10/02/16 13:36:36] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:36:36] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:36:36] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:36:36] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 13:36:36] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:36:36] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:36:36] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:37:01] : SELECT * FROM Posts WHERE 1 ORDER BY id DESC LIMIT 0, 4; 
+[10/02/16 13:37:01] : Host: localhost:8888 
+[10/02/16 13:37:01] : Connection: keep-alive 
+[10/02/16 13:37:01] : Cache-Control: max-age=0 
+[10/02/16 13:37:01] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:37:01] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:37:01] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:37:01] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:37:01] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:37:01] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:38:58] : SELECT * FROM Posts WHERE 1 ORDER BY id DESC LIMIT 0, 4; 
+[10/02/16 13:38:59] : Host: localhost:8888 
+[10/02/16 13:38:59] : Connection: keep-alive 
+[10/02/16 13:38:59] : Cache-Control: max-age=0 
+[10/02/16 13:38:59] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:38:59] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:38:59] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:38:59] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:38:59] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:38:59] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:38:59] : Host: localhost:8888 
+[10/02/16 13:38:59] : Connection: keep-alive 
+[10/02/16 13:38:59] : Cache-Control: max-age=0 
+[10/02/16 13:38:59] : Accept: */* 
+[10/02/16 13:38:59] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:38:59] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 13:38:59] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:38:59] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:38:59] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:38:59] : Host: localhost:8888 
+[10/02/16 13:38:59] : Connection: keep-alive 
+[10/02/16 13:38:59] : Cache-Control: max-age=0 
+[10/02/16 13:38:59] : Accept: */* 
+[10/02/16 13:38:59] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:38:59] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 13:38:59] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:38:59] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:38:59] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:38:59] : Host: localhost:8888 
+[10/02/16 13:38:59] : Connection: keep-alive 
+[10/02/16 13:38:59] : Cache-Control: max-age=0 
+[10/02/16 13:38:59] : Accept: */* 
+[10/02/16 13:38:59] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:38:59] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 13:38:59] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:38:59] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:38:59] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:39:08] : SELECT * FROM Posts WHERE 1 ORDER BY id DESC LIMIT 0, 4; 
+[10/02/16 13:39:09] : Host: localhost:8888 
+[10/02/16 13:39:09] : Connection: keep-alive 
+[10/02/16 13:39:09] : Cache-Control: max-age=0 
+[10/02/16 13:39:09] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:39:09] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:39:09] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:39:09] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:39:09] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:39:09] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:40:33] : SELECT * FROM Posts WHERE 1 ORDER BY id DESC LIMIT 0, 4; 
+[10/02/16 13:40:33] : Host: localhost:8888 
+[10/02/16 13:40:33] : Connection: keep-alive 
+[10/02/16 13:40:33] : Cache-Control: max-age=0 
+[10/02/16 13:40:33] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:40:33] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:40:33] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:40:33] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:40:33] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:40:33] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:40:56] : SELECT * FROM Posts WHERE 1 ORDER BY id DESC LIMIT 0, 4; 
+[10/02/16 13:40:56] : Host: localhost:8888 
+[10/02/16 13:40:56] : Connection: keep-alive 
+[10/02/16 13:40:56] : Cache-Control: max-age=0 
+[10/02/16 13:40:56] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:40:56] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:40:56] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:40:56] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:40:56] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:40:56] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:41:20] : SELECT * FROM Posts WHERE 1 ORDER BY id DESC LIMIT 0, 4; 
+[10/02/16 13:41:20] : Host: localhost:8888 
+[10/02/16 13:41:20] : Connection: keep-alive 
+[10/02/16 13:41:20] : Cache-Control: max-age=0 
+[10/02/16 13:41:20] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:41:20] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:41:20] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:41:20] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:41:20] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:41:20] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:41:47] : SELECT * FROM Posts WHERE 1 ORDER BY id DESC LIMIT 0, 4; 
+[10/02/16 13:41:47] : Host: localhost:8888 
+[10/02/16 13:41:47] : Connection: keep-alive 
+[10/02/16 13:41:47] : Cache-Control: max-age=0 
+[10/02/16 13:41:47] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:41:47] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:41:47] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:41:47] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:41:47] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:41:47] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:42:00] : SELECT * FROM Posts WHERE 1 ORDER BY id DESC LIMIT 0, 4; 
+[10/02/16 13:42:00] : Host: localhost:8888 
+[10/02/16 13:42:00] : Connection: keep-alive 
+[10/02/16 13:42:00] : Cache-Control: max-age=0 
+[10/02/16 13:42:00] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:42:00] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:42:00] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:42:00] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:42:00] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:42:00] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:42:06] : SELECT * FROM Posts WHERE 1 ORDER BY id DESC LIMIT 0, 4; 
+[10/02/16 13:42:06] : Host: localhost:8888 
+[10/02/16 13:42:06] : Connection: keep-alive 
+[10/02/16 13:42:06] : Cache-Control: max-age=0 
+[10/02/16 13:42:06] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:42:06] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:42:06] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:42:06] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:42:06] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:42:06] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:42:10] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:42:11] : Host: localhost:8888 
+[10/02/16 13:42:11] : Connection: keep-alive 
+[10/02/16 13:42:11] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:42:11] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:42:11] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:42:11] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 13:42:11] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:42:11] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:42:11] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:42:11] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:42:11] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:42:11] : Host: localhost:8888 
+[10/02/16 13:42:11] : Connection: keep-alive 
+[10/02/16 13:42:11] : Accept: text/css,*/*;q=0.1 
+[10/02/16 13:42:11] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:42:11] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 13:42:11] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:42:11] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:42:11] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:42:11] : Host: localhost:8888 
+[10/02/16 13:42:11] : Connection: keep-alive 
+[10/02/16 13:42:11] : Accept: text/css,*/*;q=0.1 
+[10/02/16 13:42:11] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:42:11] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 13:42:11] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:42:11] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:42:11] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:42:15] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:42:15] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:42:15] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:42:15] : Host: localhost:8888 
+[10/02/16 13:42:15] : Connection: keep-alive 
+[10/02/16 13:42:15] : Accept: text/css,*/*;q=0.1 
+[10/02/16 13:42:15] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:42:15] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 13:42:15] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:42:15] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:42:15] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:42:15] : Host: localhost:8888 
+[10/02/16 13:42:15] : Connection: keep-alive 
+[10/02/16 13:42:15] : Accept: text/css,*/*;q=0.1 
+[10/02/16 13:42:15] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:42:15] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 13:42:15] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:42:15] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:42:15] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:42:15] : Host: localhost:8888 
+[10/02/16 13:42:15] : Connection: keep-alive 
+[10/02/16 13:42:15] : Accept: text/css,*/*;q=0.1 
+[10/02/16 13:42:15] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:42:15] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 13:42:15] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:42:15] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:42:15] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:42:16] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:42:17] : Host: localhost:8888 
+[10/02/16 13:42:17] : Connection: keep-alive 
+[10/02/16 13:42:17] : Cache-Control: max-age=0 
+[10/02/16 13:42:17] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:42:17] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:42:17] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:42:17] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 13:42:17] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:42:17] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:42:17] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:42:17] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:42:17] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:42:17] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:42:17] : Host: localhost:8888 
+[10/02/16 13:42:17] : Connection: keep-alive 
+[10/02/16 13:42:17] : Cache-Control: max-age=0 
+[10/02/16 13:42:17] : Accept: text/css,*/*;q=0.1 
+[10/02/16 13:42:17] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:42:17] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 13:42:17] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:42:17] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:42:17] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:42:17] : Host: localhost:8888 
+[10/02/16 13:42:17] : Connection: keep-alive 
+[10/02/16 13:42:17] : Cache-Control: max-age=0 
+[10/02/16 13:42:17] : Accept: text/css,*/*;q=0.1 
+[10/02/16 13:42:17] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:42:17] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 13:42:17] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:42:17] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:42:17] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:42:17] : Host: localhost:8888 
+[10/02/16 13:42:17] : Connection: keep-alive 
+[10/02/16 13:42:17] : Cache-Control: max-age=0 
+[10/02/16 13:42:17] : Accept: text/css,*/*;q=0.1 
+[10/02/16 13:42:17] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:42:17] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 13:42:17] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:42:17] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:42:17] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:42:39] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:42:39] : Host: localhost:8888 
+[10/02/16 13:42:39] : Connection: keep-alive 
+[10/02/16 13:42:39] : Cache-Control: max-age=0 
+[10/02/16 13:42:39] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:42:39] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:42:39] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:42:39] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 13:42:39] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:42:39] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:42:39] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:42:40] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:42:40] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:42:40] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:42:40] : Host: localhost:8888 
+[10/02/16 13:42:40] : Connection: keep-alive 
+[10/02/16 13:42:40] : Cache-Control: max-age=0 
+[10/02/16 13:42:40] : Accept: text/css,*/*;q=0.1 
+[10/02/16 13:42:40] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:42:40] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 13:42:40] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:42:40] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:42:40] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:42:40] : Host: localhost:8888 
+[10/02/16 13:42:40] : Connection: keep-alive 
+[10/02/16 13:42:40] : Cache-Control: max-age=0 
+[10/02/16 13:42:40] : Accept: text/css,*/*;q=0.1 
+[10/02/16 13:42:40] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:42:40] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 13:42:40] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:42:40] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:42:40] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:42:40] : Host: localhost:8888 
+[10/02/16 13:42:40] : Connection: keep-alive 
+[10/02/16 13:42:40] : Cache-Control: max-age=0 
+[10/02/16 13:42:40] : Accept: text/css,*/*;q=0.1 
+[10/02/16 13:42:40] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:42:40] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 13:42:40] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:42:40] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:42:40] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:42:55] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:42:55] : Host: localhost:8888 
+[10/02/16 13:42:55] : Connection: keep-alive 
+[10/02/16 13:42:55] : Cache-Control: max-age=0 
+[10/02/16 13:42:55] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:42:55] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:42:55] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:42:55] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 13:42:55] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:42:55] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:42:55] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:43:09] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:43:09] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:43:09] : Host: localhost:8888 
+[10/02/16 13:43:09] : Host: localhost:8888 
+[10/02/16 13:43:09] : Connection: keep-alive 
+[10/02/16 13:43:09] : Cache-Control: max-age=0 
+[10/02/16 13:43:09] : Connection: keep-alive 
+[10/02/16 13:43:09] : Accept: text/css,*/*;q=0.1 
+[10/02/16 13:43:09] : Cache-Control: max-age=0 
+[10/02/16 13:43:09] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:43:09] : Accept: text/css,*/*;q=0.1 
+[10/02/16 13:43:09] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 13:43:09] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:43:09] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 13:43:09] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:43:09] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:43:09] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:43:09] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:43:09] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:43:09] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:43:10] : Host: localhost:8888 
+[10/02/16 13:43:10] : Connection: keep-alive 
+[10/02/16 13:43:10] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:43:10] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:43:10] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:43:10] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 13:43:10] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:43:10] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:43:10] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:43:14] : Host: localhost:8888 
+[10/02/16 13:43:14] : Connection: keep-alive 
+[10/02/16 13:43:14] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:43:14] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:43:14] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:43:14] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 13:43:14] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:43:14] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:43:14] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:43:23] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:43:23] : Host: localhost:8888 
+[10/02/16 13:43:23] : Connection: keep-alive 
+[10/02/16 13:43:23] : Cache-Control: max-age=0 
+[10/02/16 13:43:23] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:43:23] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:43:23] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:43:23] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 13:43:23] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:43:23] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:43:23] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:43:23] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:43:23] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:43:24] : Host: localhost:8888 
+[10/02/16 13:43:24] : Host: localhost:8888 
+[10/02/16 13:43:24] : Connection: keep-alive 
+[10/02/16 13:43:24] : Connection: keep-alive 
+[10/02/16 13:43:24] : Cache-Control: max-age=0 
+[10/02/16 13:43:24] : Accept: text/css,*/*;q=0.1 
+[10/02/16 13:43:24] : Cache-Control: max-age=0 
+[10/02/16 13:43:24] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:43:24] : Accept: text/css,*/*;q=0.1 
+[10/02/16 13:43:24] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 13:43:24] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:43:24] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:43:24] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 13:43:24] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:43:24] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:43:24] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:43:24] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:43:24] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:43:45] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:43:45] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:43:45] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:43:45] : Host: localhost:8888 
+[10/02/16 13:43:45] : Connection: keep-alive 
+[10/02/16 13:43:45] : Accept: text/css,*/*;q=0.1 
+[10/02/16 13:43:45] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:43:45] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 13:43:45] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:43:45] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:43:45] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:43:45] : Host: localhost:8888 
+[10/02/16 13:43:45] : Connection: keep-alive 
+[10/02/16 13:43:45] : Accept: text/css,*/*;q=0.1 
+[10/02/16 13:43:45] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:43:45] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 13:43:45] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:43:45] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:43:45] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:43:45] : Host: localhost:8888 
+[10/02/16 13:43:45] : Connection: keep-alive 
+[10/02/16 13:43:45] : Accept: text/css,*/*;q=0.1 
+[10/02/16 13:43:45] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:43:45] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 13:43:45] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:43:45] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:43:45] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:44:10] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:44:10] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:44:10] : Host: localhost:8888 
+[10/02/16 13:44:10] : Connection: keep-alive 
+[10/02/16 13:44:10] : Accept: text/css,*/*;q=0.1 
+[10/02/16 13:44:10] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:44:10] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 13:44:10] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:44:10] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:44:10] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:44:10] : Host: localhost:8888 
+[10/02/16 13:44:10] : Connection: keep-alive 
+[10/02/16 13:44:10] : Accept: text/css,*/*;q=0.1 
+[10/02/16 13:44:10] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:44:10] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 13:44:10] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:44:10] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:44:10] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:44:15] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:44:15] : Host: localhost:8888 
+[10/02/16 13:44:15] : Connection: keep-alive 
+[10/02/16 13:44:15] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:44:15] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:44:15] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:44:15] : Referer: http://localhost:8888/frameSup/web/index.php/article/1 
+[10/02/16 13:44:15] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:44:15] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:44:15] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:44:16] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:44:16] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:44:16] : Host: localhost:8888 
+[10/02/16 13:44:16] : Connection: keep-alive 
+[10/02/16 13:44:16] : Accept: text/css,*/*;q=0.1 
+[10/02/16 13:44:16] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:44:16] : Referer: http://localhost:8888/frameSup/web/index.php/article/index 
+[10/02/16 13:44:16] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:44:16] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:44:16] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:44:16] : Host: localhost:8888 
+[10/02/16 13:44:16] : Connection: keep-alive 
+[10/02/16 13:44:16] : Accept: text/css,*/*;q=0.1 
+[10/02/16 13:44:16] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:44:16] : Referer: http://localhost:8888/frameSup/web/index.php/article/index 
+[10/02/16 13:44:16] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:44:16] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:44:16] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:45:47] : SELECT * FROM Posts WHERE 1 ORDER BY id DESC LIMIT 0, 4; 
+[10/02/16 13:45:47] : Host: localhost:8888 
+[10/02/16 13:45:47] : Connection: keep-alive 
+[10/02/16 13:45:47] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:45:47] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:45:47] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:45:47] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:45:47] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:45:47] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:45:49] : Host: localhost:8888 
+[10/02/16 13:45:49] : Connection: keep-alive 
+[10/02/16 13:45:49] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:45:49] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:45:49] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:45:49] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 13:45:49] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:45:49] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:45:49] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:45:51] : SELECT * FROM Posts WHERE 1 ORDER BY id DESC LIMIT 0, 4; 
+[10/02/16 13:45:51] : Host: localhost:8888 
+[10/02/16 13:45:51] : Connection: keep-alive 
+[10/02/16 13:45:51] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:45:51] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:45:51] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:45:51] : Referer: http://localhost:8888/frameSup/web/index.php/products 
+[10/02/16 13:45:51] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:45:51] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:45:51] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:45:53] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:45:53] : Host: localhost:8888 
+[10/02/16 13:45:53] : Connection: keep-alive 
+[10/02/16 13:45:53] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:45:53] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:45:53] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:45:53] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 13:45:53] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:45:53] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:45:53] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:45:53] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:45:53] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:45:53] : Host: localhost:8888 
+[10/02/16 13:45:53] : Connection: keep-alive 
+[10/02/16 13:45:53] : Accept: text/css,*/*;q=0.1 
+[10/02/16 13:45:53] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:45:53] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 13:45:53] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:45:53] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:45:53] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:45:53] : Host: localhost:8888 
+[10/02/16 13:45:53] : Connection: keep-alive 
+[10/02/16 13:45:53] : Accept: text/css,*/*;q=0.1 
+[10/02/16 13:45:53] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:45:53] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 13:45:53] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:45:53] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:45:53] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:45:55] : SELECT * FROM Posts WHERE 1 ORDER BY id DESC LIMIT 0, 4; 
+[10/02/16 13:45:55] : Host: localhost:8888 
+[10/02/16 13:45:55] : Connection: keep-alive 
+[10/02/16 13:45:55] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:45:55] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:45:55] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:45:55] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 13:45:55] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:45:55] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:45:55] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:46:22] : SELECT * FROM Posts WHERE 1 ORDER BY id DESC LIMIT 0, 4; 
+[10/02/16 13:46:22] : Host: localhost:8888 
+[10/02/16 13:46:22] : Connection: keep-alive 
+[10/02/16 13:46:22] : Cache-Control: max-age=0 
+[10/02/16 13:46:22] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:46:22] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:46:22] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:46:22] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 13:46:22] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:46:22] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:46:22] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:46:37] : SELECT * FROM Posts WHERE 1 ORDER BY id DESC LIMIT 0, 4; 
+[10/02/16 13:46:37] : Host: localhost:8888 
+[10/02/16 13:46:37] : Connection: keep-alive 
+[10/02/16 13:46:37] : Cache-Control: max-age=0 
+[10/02/16 13:46:37] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:46:37] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:46:37] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:46:37] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 13:46:37] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:46:37] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:46:37] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:46:38] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:46:39] : Host: localhost:8888 
+[10/02/16 13:46:39] : Connection: keep-alive 
+[10/02/16 13:46:39] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:46:39] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:46:39] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:46:39] : Referer: http://localhost:8888/frameSup/web/index.php/ 
+[10/02/16 13:46:39] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:46:39] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:46:39] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:46:39] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:46:39] : SELECT * FROM Posts WHERE id = 1 ORDER BY id ASC LIMIT 1; 
+[10/02/16 13:46:39] : Host: localhost:8888 
+[10/02/16 13:46:39] : Host: localhost:8888 
+[10/02/16 13:46:39] : Connection: keep-alive 
+[10/02/16 13:46:39] : Accept: text/css,*/*;q=0.1 
+[10/02/16 13:46:39] : Connection: keep-alive 
+[10/02/16 13:46:39] : Accept: text/css,*/*;q=0.1 
+[10/02/16 13:46:39] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:46:39] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 13:46:39] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:46:39] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:46:39] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:46:39] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:46:39] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 13:46:39] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:46:39] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:46:39] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:46:50] : Host: localhost:8888 
+[10/02/16 13:46:50] : Connection: keep-alive 
+[10/02/16 13:46:50] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:46:50] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:46:50] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:46:50] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:46:50] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:46:50] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:46:54] : Host: localhost:8888 
+[10/02/16 13:46:54] : Connection: keep-alive 
+[10/02/16 13:46:54] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:46:54] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:46:54] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:46:54] : Referer: http://localhost:8888/frameSup/web/index.php/article/2 
+[10/02/16 13:46:54] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:46:54] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:46:54] : Cookie: SQLiteManager_currentLangue=1 
+[10/02/16 13:46:59] : SELECT * FROM Posts WHERE 1 ORDER BY id DESC LIMIT 0, 4; 
+[10/02/16 13:46:59] : Host: localhost:8888 
+[10/02/16 13:46:59] : Connection: keep-alive 
+[10/02/16 13:46:59] : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 
+[10/02/16 13:46:59] : Upgrade-Insecure-Requests: 1 
+[10/02/16 13:46:59] : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36 
+[10/02/16 13:46:59] : Referer: http://localhost:8888/frameSup/web/index.php/products 
+[10/02/16 13:46:59] : Accept-Encoding: gzip, deflate, sdch 
+[10/02/16 13:46:59] : Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4 
+[10/02/16 13:46:59] : Cookie: SQLiteManager_currentLangue=1 

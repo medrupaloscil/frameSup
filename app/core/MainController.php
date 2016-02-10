@@ -20,6 +20,8 @@ class MainController {
     }
 
     function render($page, $array = []) {
+        $array["assets"] = substr(__DIR__, strlen($_SERVER['DOCUMENT_ROOT']))."/../../web";
+        $array["path"] = substr(__DIR__, strlen($_SERVER['DOCUMENT_ROOT']))."/../../web/index.php";
         echo $this->twig->render($page, $array);
     }
 

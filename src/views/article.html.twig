@@ -1,0 +1,17 @@
+{% extends "base.html.twig" %}
+
+{% block title %}
+    {{ parent() }} - article
+{% endblock %}
+
+{% block body %}
+    <div class="3u">
+        <section>
+            <a href="#" class="image full"><img src="{{ assets }}/images/{{ post.photos }}" alt=""></a>
+            <header>
+                <h2>{{ post.title }}</h2>
+            </header>
+            <p>{{ post.content }}</p>
+        </section>
+    </div>
+{% endblock %}

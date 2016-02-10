@@ -18,4 +18,12 @@ class TestController extends MainController{
     public function products() {
         $this->render('products.html.twig');
     }
+
+    public function article($id) {
+
+        $query = new Query();
+        $query->where(['id = 1']);
+        $post = $query->findOne('Posts');
+        $this->render('article.html.twig', array('post' => $post));
+    }
 }

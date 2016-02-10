@@ -1,2 +1,9 @@
 LOGS ERRORS: 
 [11/12/15 19:38:07] : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SCT * FROM Users WHERE 1 ORDER BY id DESC' at line 1 
+[10/02/16 12:11:10] : /article/2 : 404 not found 
+[10/02/16 12:11:20] : /artic : 404 not found[10/02/16 13:38:59] : //js/skel.min.js : 404 not found 
+[10/02/16 13:38:59] : //js/skel-panels.min.js : 404 not found 
+[10/02/16 13:38:59] : //js/init.js : 404 not found 
+[10/02/16 13:43:10] : /article/article/1 : 404 not found 
+[10/02/16 13:43:14] : /article/article/1 : 404 not found 
+[10/02/16 13:46:50] : /article : 404 not found 

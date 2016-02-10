@@ -11,7 +11,11 @@ $route = substr($url, strlen("index.php"));
 
 $router = new Router();
 $response= $router->run($route);
-/*$file = '../src/views/'.$response;
 
-$view = file_get_contents($file);
-echo $view;*/
+foreach (getallheaders() as $name => $value) {
+    $file = __DIR__."/../app/logs/access.log";
+    if (!file_exists($file)) {
+        file_put_contents($file, "LOGS ACCESS: \n");
+    }
+    file_put_contents($file, date("\[d/m/y H:i:s\]")." : "."$name: $value"." \n", FILE_APPEND);
+}
