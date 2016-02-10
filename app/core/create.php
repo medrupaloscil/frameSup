@@ -22,7 +22,7 @@ class Create {
 		  		$fields = [];
 		  		foreach ($value as $ky => $val) {
 		  			array_push($fields, $val['name']);
-		  			$this->addColumn(ucfirst($value['name'], $val['name'], $val['type']));
+		  			$this->addColumn(ucfirst($value['name']), $val['name'], $val['type']);
 		  		}
 		  		$this->generateFiles($className, $fields);
 		  	}
