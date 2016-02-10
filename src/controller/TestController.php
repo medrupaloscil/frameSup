@@ -18,6 +18,10 @@ class TestController {
     }
 
     public function index() {
+
+        $create = new Create();
+        $create->createDatabase();
+
         $query = new Query();
         $query->orderBy('id', 'DESC');
         $query->limit(4);

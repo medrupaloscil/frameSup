@@ -1,6 +1,10 @@
 <?php
 require_once('autoloader.php');
 
+echo "ok";
+$query = new Create();
+$query->createDatabase();
+
 $user = new Post();
 $user->setTitle('Etiam posuere');
 $user->setPhotos('pics02.jpg');

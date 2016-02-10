@@ -90,7 +90,7 @@ class Create {
 			$code .= $this->do_tabs($tabs) . "}\n\n";
 		}
 		$code .= "}\n";
-		file_put_contents(__DIR__."/../model/".ucfirst($className).".php", $code);
+		file_put_contents(__DIR__."/../../src/model/".ucfirst($className).".php", $code);
 	}
 
 	private function do_tabs($tabs) {
