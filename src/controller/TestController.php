@@ -22,7 +22,7 @@ class TestController extends MainController{
     public function article($id) {
 
         $query = new Query();
-        $query->where(['id = 1']);
+        $query->where(["id = $id"]);
         $post = $query->findOne('Posts');
         $this->render('article.html.twig', array('post' => $post));
     }

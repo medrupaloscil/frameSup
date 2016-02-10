@@ -26,7 +26,7 @@ class Router
 						$func = $part[1];
 						foreach ($routeParts as $k => $val) {
 							if ($val != $uriParts[$k]) {
-								array_push($arguments, $uriParts[1]);
+								array_push($arguments, $uriParts[$k]);
 							}
 						}
 					}
