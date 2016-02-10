@@ -18,3 +18,4 @@ LOGS ACCESS:
 [16/12/15 13:51:31] : SELECT * FROM Users WHERE 1 ORDER BY id DESC LIMIT 4, 2; 
 [16/12/15 13:51:31] : INSERT INTO users (id) VALUES (DEFAULT); 
 [16/12/15 13:51:32] : UPDATE users SET  pseudo = 'Luke Skywalker', password = 'LoveMySister', age = '26' WHERE id = '6'; 
+[10/02/16 11:38:19] : SELECT * FROM Posts WHERE 1 ORDER BY id DESC LIMIT 0, 4; 
