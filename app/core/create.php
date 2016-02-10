@@ -13,7 +13,7 @@ class Create {
 	}
 
 	public function createDatabase() {
-		foreach(glob(__DIR__.'/../xml/*.xml') as $file) {
+		foreach(glob(__DIR__.'/../../src/xml/*.xml') as $file) {
 		  	$xml = simplexml_load_file($file) or die("Error: Cannot create object");
 		  	$this->isDatabaseOrCreate($xml['name']);
 		  	foreach ($xml as $key => $value) {
