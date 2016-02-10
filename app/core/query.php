@@ -9,7 +9,7 @@ class Query {
 	private $limit = "";
 
 	function __construct() {
-		$data = json_decode(file_get_contents(__DIR__."/../../app/config/parameters.json"));
+		$data = json_decode(file_get_contents(__DIR__."/../config/parameters.json"));
 		$this->pdo = new MedruPDO (
     		'mysql:host='.$data->database_host.';dbname='.$data->database_name,
    			$data->database_user,

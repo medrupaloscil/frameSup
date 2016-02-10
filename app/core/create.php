@@ -4,7 +4,7 @@ class Create {
 	private $pdo;
 
 	function __construct() {
-		$data = json_decode(file_get_contents(__DIR__."/../../app/config/parameters.json"));
+		$data = json_decode(file_get_contents(__DIR__."/../config/parameters.json"));
 		$this->pdo = new PDO(
     		'mysql:host='.$data->database_host.';dbname='.$data->database_name,
    			$data->database_user,
@@ -17,12 +17,12 @@ class Create {
 		  	$xml = simplexml_load_file($file) or die("Error: Cannot create object");
 		  	$this->isDatabaseOrCreate($xml['name']);
 		  	foreach ($xml as $key => $value) {
-		  		$this->createTable(ucfirst($value['name']);
-		  		$className = ucfirst($value['name'];
+		  		$this->createTable(ucfirst($value['name']));
+		  		$className = ucfirst($value['name']);
 		  		$fields = [];
 		  		foreach ($value as $ky => $val) {
 		  			array_push($fields, $val['name']);
-		  			$this->addColumn(ucfirst($value['name'], $val['name'], $val['type']);
+		  			$this->addColumn(ucfirst($value['name'], $val['name'], $val['type']));
 		  		}
 		  		$this->generateFiles($className, $fields);
 		  	}

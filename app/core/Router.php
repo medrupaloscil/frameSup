@@ -12,7 +12,9 @@ class Router
 			$func = $parts[1];
             return $controller->$func();
 		} else {
-			throw new Exception('No route for : ' . $route);
+			$loader = new Twig_Loader_Filesystem(__DIR__.'/views');
+			$twig = new Twig_Environment($loader);
+			echo $twig->render('error404.html.twig');
 		}
     }
 }

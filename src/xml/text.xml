@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database name="SupOrm">
-	<table name="users">
+	<table name="posts">
 		<column name="id" type="INTEGER"/>
-		<column name="pseudo" type="CHAR(255)"/>
-		<column name="password" type="CHAR(255)"/>
-		<column name="age" type="INTEGER"/>
-		<column name="gender" type="BOOL"/>
-	</table>
-	<table name="messages">
-		<column name="id" type="INTEGER"/>
-		<column name="sender" type="CHAR(255)"/>
-		<column name="receiver" type="CHAR(255)"/>
+		<column name="title" type="CHAR(255)"/>
+		<column name="photos" type="CHAR(255)"/>
 		<column name="content" type="CHAR(255)"/>
 	</table>
 </database>

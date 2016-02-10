@@ -1,9 +1,30 @@
-{% include base.html.twig %}
+{% extends "base.html.twig" %}
 
 {% block title %}
-    {{ parents }} - contact
+    {{ parent() }} - contact
+{% endblock %}
+
+{% block contactActive %}
+    class="active"
 {% endblock %}
 
 {% block body %}
-    <h1>Bonjour, et bienvenue dans le... Turfu!</h1>
+    <div id="featured">
+        <div class="container">
+            <div class="row">
+                <div class="12u">
+                    <section>
+                        <header>
+                            <h2>Contact</h2>
+                        </header>
+                        <form action="" method="post">
+                            <input type="text" placeholder="E-Mail"><br>
+                            <textarea>Message...</textarea><br>
+                            <input type="submit">
+                        </form>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </div>
 {% endblock %}

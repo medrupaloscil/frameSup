@@ -1,10 +1,10 @@
 {% extends "base.html.twig" %}
 
 {% block title %}
-    {{ parent() }} - accueil
+    {{ parent() }} - products
 {% endblock %}
 
-{% block indexActive %}
+{% block productsActive %}
     class="active"
 {% endblock %}
 
@@ -12,21 +12,17 @@
     <div id="featured">
         <div class="container">
             <div class="row">
+                <div class="12u">
+                    <section>
+                        <header>
+                            <h2>No Sidebar</h2>
+                        </header>
+                        <p>Donec leo. Vivamus fermentum nibh in augue. Praesent a lacus at urna congue rutrum. Nulla enim eros, porttitor eu, tempus id, varius non, nibh. Duis enim nulla, luctus eu, dapibus lacinia, venenatis id, quam. Vestibulum imperdiet, magna nec eleifend rutrum, nunc lectus vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Vestibulum pellentesque, justo mollis pretium suscipit, justo nulla blandit libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis tortor. Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget, tempus et, tellus. Etiam neque. Vivamus consequat lorem at nisl. Nullam non wisi a sem semper eleifend. Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat vel, suscipit in, mattis placerat, nulla. Sed ac leo. Pellentesque imperdiet.</p>
+                        <p>Praesent a lacus at urna congue rutrum. Nulla enim eros, porttitor eu, tempus id, varius non, nibh. Duis enim nulla, luctus eu, dapibus lacinia, venenatis id, quam. Vestibulum imperdiet, magna nec eleifend rutrum, nunc lectus vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Vestibulum pellentesque, justo mollis pretium suscipit, justo nulla blandit libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis tortor. Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget, tempus et, tellus. Etiam neque. Vivamus consequat lorem at nisl. Nullam non wisi a sem semper eleifend. Curabitur sit amet nulla. Donec leo. Vivamus fermentum nibh in augue. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat vel, suscipit in, mattis placerat, nulla. Sed ac leo. Pellentesque imperdiet.</p>
+                        <p>Nullam non wisi a sem semper eleifend. Donec leo. Vivamus fermentum nibh in augue. Praesent a lacus at urna congue rutrum. Nulla enim eros, porttitor eu, tempus id, varius non, nibh. Duis enim nulla, luctus eu, dapibus lacinia, venenatis id, quam. Vestibulum imperdiet, magna nec eleifend rutrum, nunc lectus vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Vestibulum pellentesque, justo mollis pretium suscipit, justo nulla blandit libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis tortor. Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget, tempus et, tellus. Etiam neque. Vivamus consequat lorem at nisl. Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat vel, suscipit in, mattis placerat, nulla. Sed ac leo. Pellentesque imperdiet.</p>
 
-                {% for post in posts %}
-
-                    <div class="3u">
-                        <section>
-                            <a href="#" class="image full"><img src="../Images/{{ post.photos }}" alt=""></a>
-                            <header>
-                                <h2>{{ post.title }}</h2>
-                            </header>
-                            <p>{{ post.content }}</p>
-                        </section>
-                    </div>
-
-                {% endfor %}
-
+                    </section>
+                </div>
             </div>
         </div>
     </div>
@@ -39,13 +35,13 @@
                             <h2>Praesent eleifend</h2>
                         </header>
                         <ul class="style1">
-                            <li class="first"><img src="../Images/pics06.jpg" width="80" height="80" alt="">
+                            <li class="first"><img src="../images/pics06.jpg" width="80" height="80" alt="">
                                 <p>Nullam non wisi a sem eleifend. Donec mattis libero eget urna. </p>
                             </li>
-                            <li><img src="../Images/pics07.jpg" width="80" height="80" alt="">
+                            <li><img src="../images/pics07.jpg" width="80" height="80" alt="">
                                 <p>Nullam non wisi a sem eleifend. Donec mattis libero eget urna. </p>
                             </li>
-                            <li><img src="../Images/pics08.jpg" width="80" height="80" alt="">
+                            <li><img src="../images/pics08.jpg" width="80" height="80" alt="">
                                 <p>Nullam non wisi a sem eleifend. Donec mattis libero eget urna. </p>
                             </li>
                         </ul>
@@ -55,15 +51,16 @@
                     <section>
                         <header>
                             <h2>Maecenas lectus</h2>
+
                         </header>
                         <ul class="style1">
-                            <li class="first"><img src="../Images/pics09.jpg" width="80" height="80" alt="">
+                            <li class="first"><img src="../images/pics09.jpg" width="80" height="80" alt="">
                                 <p>Nullam non wisi a sem eleifend. Donec mattis libero eget urna. </p>
                             </li>
-                            <li><img src="../Images/pics10.jpg" width="80" height="80" alt="">
+                            <li><img src="../images/pics10.jpg" width="80" height="80" alt="">
                                 <p>Nullam non wisi a sem eleifend. Donec mattis libero eget urna. </p>
                             </li>
-                            <li><img src="../Images/pics11.jpg" width="80" height="80" alt="">
+                            <li><img src="../images/pics11.jpg" width="80" height="80" alt="">
                                 <p>Nullam non wisi a sem eleifend. Donec mattis libero eget urna. </p>
                             </li>
                         </ul>
@@ -74,7 +71,7 @@
                         <header>
                             <h2>Aenean elementum facilisis ligula</h2>
                         </header>
-                        <a href="#" class="image full"><img src="../Images/pics12.jpg" alt=""></a>
+                        <a href="#" class="image full"><img src="../images/pics12.jpg" alt=""></a>
                         <p>Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget, tempus et, tellus. Etiam neque. Vivamus consequat lorem at nisl. Nullam non wisi a sem semper eleifend. Donec mattis libero eget urna. Duis pretium velit ac mauris. Proin eu wisi suscipit nulla suscipit interdum. Aenean lectus lorem, imperdiet. Donec mattis libero eget urna. Duis pretium velit ac mauris.</p>
                     </section>
                 </div>
@@ -90,9 +87,8 @@
                         <header>
                             <h2>Maecenas luctus lectus at sapien</h2>
                         </header>
-                        <p>This is <strong>Autonomy</strong>, a responsive HTML5 site template freebie by <a href="http://templated.co">TEMPLATED</a>. Released for free under the <a href="http://templated.co/license">Creative Commons Attribution</a> license, so use it for whatever (personal or commercial) &ndash; just give us credit! Check out more of our stuff at <a href="http://templated.co">our site</a> or follow us on <a href="http://twitter.com/templatedco">Twitter</a>.</p>
+                        <p>Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Vestibulum pellentesque, justo mollis pretium suscipit, justo nulla blandit libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis tortor. Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget lorem ipsum dolor. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Vestibulum pellentesque, justo mollis pretium suscipit, justo nulla blandit libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis tortor. Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget lorem ipsum dolor.</p>
                         <p>Donec leo. Vivamus fermentum nibh in augue. Praesent a lacus at urna congue rutrum. Nulla enim eros, porttitor eu, tempus id, varius non, nibh. Duis enim nulla, luctus eu, dapibus lacinia, venenatis id, quam. Vestibulum imperdiet, magna nec eleifend rutrum, nunc lectus vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Vestibulum pellentesque, justo mollis pretium suscipit, justo nulla blandit libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis tortor. Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget, tempus et, tellus. Etiam neque. Vivamus consequat lorem at nisl. Nullam non wisi a sem semper eleifend.</p>
-                        <p>Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Vestibulum pellentesque, justo mollis pretium suscipit, justo nulla blandit libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis tortor. Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget lorem ipsum dolor.</p>
                     </section>
                 </div>
                 <div class="4u">
